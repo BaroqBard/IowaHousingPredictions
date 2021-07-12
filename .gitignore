@@ -131,3 +131,4 @@ dmypy.json
 # Bespoke stuff
 *.csv
 *.pkl
+*.dot
