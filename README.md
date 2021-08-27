@@ -1,6 +1,6 @@
 # IowaHousingPrices_Predictions
 
-## [Kaggle](https://www.kaggle.com/nickptaylor/iowa-house-prices) | [LinkedIn](https://www.linkedin.com/in/theodorecheek/) | [Blog Writeup]
+## [Kaggle](https://www.kaggle.com/nickptaylor/iowa-house-prices) | [LinkedIn](https://www.linkedin.com/in/theodorecheek/) | [Blog Writeup](https://nycdatascience.com/blog/student-works/predicting-housing-vs-pca/)
 
 -----------------------
 
